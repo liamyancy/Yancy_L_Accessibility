@@ -1,0 +1,10 @@
+.video-player {
+    .movie-title {
+        text-align: center;
+        text-decoration: underline;
+    }
+    video, h3, p {
+        width: 50%;
+        margin: 10px 25% 0 25%;
+    }
+}

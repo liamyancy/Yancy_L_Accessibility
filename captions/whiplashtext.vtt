@@ -1,0 +1,320 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  }, {
+    "iAttr": 1
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "juJustifCode": 2
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 93,
+    "rcRows": 1,
+    "ccCols": 32
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 6,
+    "rcRows": 1,
+    "ccCols": 32
+  } ],
+  "events": [ {
+    "tStartMs": 6900,
+    "dDurationMs": 2342,
+    "segs": [ {
+      "utf8": "-This place is nice.\n-I really like the music"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 9242,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "that they play.\nBob Ellis on the drums."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 11562,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "(CHUCKLING)"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 13636,
+    "dDurationMs": 2247,
+    "segs": [ {
+      "utf8": "ANDREW: "
+    }, {
+      "utf8": "I'm part of Shaffer's top\njazz orchestra.",
+      "pPenId": 1
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 15883,
+    "dDurationMs": 1678,
+    "segs": [ {
+      "utf8": "It's the best music school\nin the country."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1,
+    "pPenId": 1
+  }, {
+    "tStartMs": 17561,
+    "dDurationMs": 2995,
+    "segs": [ {
+      "utf8": "FLETCHER: The key is to just relax.\nDon't worry about the numbers."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 20717,
+    "dDurationMs": 2027,
+    "segs": [ {
+      "utf8": "Don't worry about what\nthe other guys are thinking."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 22937,
+    "dDurationMs": 2019,
+    "segs": [ {
+      "utf8": "You're here for a reason. Have fun."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 25158,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Five, six, and..."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 26158,
+    "dDurationMs": 2283,
+    "segs": [ {
+      "utf8": "(JAZZ MUSIC PLAYING)"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 28441,
+    "dDurationMs": 2537,
+    "segs": [ {
+      "utf8": "-I want to be great.\n-And you're not?"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 33089,
+    "dDurationMs": 1006,
+    "segs": [ {
+      "utf8": "We got Buddy Rich here."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 34095,
+    "dDurationMs": 2656,
+    "segs": [ {
+      "utf8": "-(DRUMMING)\n-Little trouble there."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 36901,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "You're rushing. Here we go.\nFive, six, and."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 39217,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "-(GENTLE DRUMMING)\n-(CLATTERING)"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 43854,
+    "dDurationMs": 1456,
+    "segs": [ {
+      "utf8": "Were you rushing\nor were you dragging?"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 45460,
+    "dDurationMs": 1327,
+    "segs": [ {
+      "utf8": "-I...I don't know.\n-(SLAPPING)"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 46912,
+    "dDurationMs": 3539,
+    "segs": [ {
+      "utf8": "If you deliberately sabotage my band,\nI will gut you like a pig."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 50758,
+    "dDurationMs": 3343,
+    "segs": [ {
+      "utf8": "Oh, my dead God. Are you one of those\nsingle tear people?"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 54356,
+    "dDurationMs": 2946,
+    "segs": [ {
+      "utf8": "(SHOUTING) You are a worthless\npansy ass who is now weeping"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 57302,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "and slobbering all over my drum set\nlike a nine-year-old girl."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 63436,
+    "dDurationMs": 1696,
+    "segs": [ {
+      "utf8": "So how's it going\nwith the studio band?"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 65132,
+    "dDurationMs": 2365,
+    "segs": [ {
+      "utf8": "ANDREW: Good. Yeah,\nI think he likes me more now."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 70294,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "FLETCHER: "
+    }, {
+      "utf8": "I push people beyond\nwhat's expected of them.",
+      "pPenId": 1
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 73254,
+    "dDurationMs": 2554,
+    "segs": [ {
+      "utf8": "I believe that is an absolute\nnecessity."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 75929,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "ANDREW:"
+    }, {
+      "utf8": "\nI want to be one of the greats",
+      "pPenId": 1
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 77763,
+    "dDurationMs": 2649,
+    "segs": [ {
+      "utf8": "and because I'm doing that,\nit's gonna take up more of my time"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80412,
+    "dDurationMs": 2451,
+    "segs": [ {
+      "utf8": "and this is why I don't think\nthat we should be together."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 84533,
+    "dDurationMs": 2935,
+    "segs": [ {
+      "utf8": "JIM: I would never let him\nput my son through hell."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 87468,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "Why let him get away\nwith what he did to you?"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 89596,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "FLETCHER: "
+    }, {
+      "utf8": "There are no two words\nin the English language ",
+      "pPenId": 1
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 92265,
+    "dDurationMs": 2978,
+    "segs": [ {
+      "utf8": "more harmful than \"good job.\""
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 96788,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "(ESCALATING DRUMMING)"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 112861,
+    "dDurationMs": 4638,
+    "segs": [ {
+      "utf8": "(RAPID DRUMMING)"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  } ]
+}

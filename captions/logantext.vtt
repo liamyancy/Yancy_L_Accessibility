@@ -1,0 +1,193 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 11000,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "Hello"
+    } ]
+  }, {
+    "tStartMs": 12760,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "You know you gotta pay for that, right?"
+    } ]
+  }, {
+    "tStartMs": 15520,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Hey"
+    } ]
+  }, {
+    "tStartMs": 16560,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Come on"
+    } ]
+  }, {
+    "tStartMs": 21060,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Not OK!"
+    } ]
+  }, {
+    "tStartMs": 31400,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "We got ourself an X-Men fan"
+    } ]
+  }, {
+    "tStartMs": 34160,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "Maybe a quarter of what happened..."
+    } ]
+  }, {
+    "tStartMs": 37160,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "...but not like this"
+    } ]
+  }, {
+    "tStartMs": 39400,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "In the real world people die"
+    } ]
+  }, {
+    "tStartMs": 41720,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "- Logan\n- I don't want to talk about it"
+    } ]
+  }, {
+    "tStartMs": 43560,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "- Logan \n-Just stop!"
+    } ]
+  }, {
+    "tStartMs": 45740,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "Be careful..."
+    } ]
+  }, {
+    "tStartMs": 48140,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "I need the girl"
+    } ]
+  }, {
+    "tStartMs": 49400,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "What girl?"
+    } ]
+  }, {
+    "tStartMs": 52660,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "Go get her"
+    } ]
+  }, {
+    "tStartMs": 67240,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "No"
+    } ]
+  }, {
+    "tStartMs": 68460,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "No"
+    } ]
+  }, {
+    "tStartMs": 70260,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "No!"
+    } ]
+  }, {
+    "tStartMs": 82760,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "She's like you"
+    } ]
+  }, {
+    "tStartMs": 84800,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Very much like you"
+    } ]
+  }, {
+    "tStartMs": 89280,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I am not whatever it is you think I am"
+    } ]
+  }, {
+    "tStartMs": 93400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "She needs our help"
+    } ]
+  }, {
+    "tStartMs": 96080,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Someone will come along"
+    } ]
+  }, {
+    "tStartMs": 98200,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Someone has come along"
+    } ]
+  }, {
+    "tStartMs": 104060,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "This is what life looks like"
+    } ]
+  }, {
+    "tStartMs": 108680,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "People who love each other"
+    } ]
+  }, {
+    "tStartMs": 110680,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "A home"
+    } ]
+  }, {
+    "tStartMs": 114180,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "You should take a moment"
+    } ]
+  }, {
+    "tStartMs": 117480,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Feel it"
+    } ]
+  }, {
+    "tStartMs": 124780,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "You still have time"
+    } ]
+  } ]
+}

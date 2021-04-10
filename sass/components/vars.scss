@@ -1,0 +1,8 @@
+body { font-size: 16px; color: white; font-family: Arial, Helvetica, sans-serif; background: rgb(20,90,105); background: radial-gradient(circle, rgba(20,90,105,1) 0%, rgba(0,0,0,1) 100%);}
+
+h1 { text-align: center; }
+.swap-button { font-size: 20px; width: 10%; height: 50px; margin: 10px 45% 10px 45%; border: 0; border-radius: 25px; &:hover {cursor: pointer; opacity: 80%;}}
+
+.hidden { display: none; }
+
+.show-lyrics { display: inline; }
